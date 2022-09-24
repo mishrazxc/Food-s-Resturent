@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+.Top{
+  height: 6rem;
+  width: 100%;
+  background-color: blue;
+}
+.App h1{
+  margin: 0px;
+  padding: 20px;
+  text-align: left;
+}
